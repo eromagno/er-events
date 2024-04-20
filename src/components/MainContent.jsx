@@ -11,6 +11,7 @@ function MainContent() {
 
   // Add comment 1
   // Add second comment again !
+  // This will be another to skip.
 
   return (
     <main>
