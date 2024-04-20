@@ -4,7 +4,7 @@ on:
     types:
       - opened
     branches:
-      - main
+      - main  # target branch to trigger
       - 'dev-*'  # i.e dev-new dev-this-is-new
       - 'feat/**'  # i.e feat/new  feat/new/button
   workflow_dispatch:
